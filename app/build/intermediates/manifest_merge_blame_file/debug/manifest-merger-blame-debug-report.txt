@@ -27,12 +27,12 @@
 18        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
 18-->[androidx.core:core:1.1.0] C:\Users\user\.gradle\caches\transforms-2\files-2.1\73530a2d0c1df4b3085807c82555ce12\core-1.1.0\AndroidManifest.xml:24:18-86
 19        android:debuggable="true"
-20        android:icon="@mipmap/logo"
-20-->G:\ReactNative\Projects\Sessional\android\app\src\main\AndroidManifest.xml:9:7-34
+20        android:icon="@mipmap/gamelogo"
+20-->G:\ReactNative\Projects\Sessional\android\app\src\main\AndroidManifest.xml:9:7-38
 21        android:label="@string/app_name"
 21-->G:\ReactNative\Projects\Sessional\android\app\src\main\AndroidManifest.xml:8:7-39
-22        android:roundIcon="@mipmap/logo"
-22-->G:\ReactNative\Projects\Sessional\android\app\src\main\AndroidManifest.xml:10:7-39
+22        android:roundIcon="@mipmap/gamelogo"
+22-->G:\ReactNative\Projects\Sessional\android\app\src\main\AndroidManifest.xml:10:7-43
 23        android:theme="@style/AppTheme"
 23-->G:\ReactNative\Projects\Sessional\android\app\src\main\AndroidManifest.xml:12:7-38
 24        android:usesCleartextTraffic="true" >
