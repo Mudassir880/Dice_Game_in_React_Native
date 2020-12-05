@@ -1,0 +1,14 @@
+com/sessional/MainApplication.java
+ com.sessional.MainApplication
+ com.sessional.MainApplication$1
+com/sessional/MainActivity.java
+ com.sessional.MainActivity
+com/sessional/BuildConfig.java
+ com.sessional.BuildConfig
+com/facebook/react/PackageList.java
+ com.facebook.react.PackageList
+com/sessional/ReactNativeFlipper.java
+ com.sessional.ReactNativeFlipper
+ com.sessional.ReactNativeFlipper$1
+ com.sessional.ReactNativeFlipper$2
+ com.sessional.ReactNativeFlipper$2$1
