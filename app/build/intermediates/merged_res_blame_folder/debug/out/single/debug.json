@@ -8,6 +8,10 @@
         "source": "G:\\ReactNative\\Projects\\Sessional\\android\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
     },
     {
+        "merged": "G:\\ReactNative\\Projects\\Sessional\\android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_logo.PNG.flat",
+        "source": "G:\\ReactNative\\Projects\\Sessional\\android\\app\\src\\main\\res\\mipmap-hdpi\\logo.PNG"
+    },
+    {
         "merged": "G:\\ReactNative\\Projects\\Sessional\\android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
         "source": "G:\\ReactNative\\Projects\\Sessional\\android\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
     },
